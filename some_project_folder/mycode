@@ -1,0 +1,8 @@
+# import libraries
+# read in CSV dataset
+# data preprocessing
+# models fit
+# models validation
+# selected model finetuning
+# selected model deployment
+# continued monitoring
